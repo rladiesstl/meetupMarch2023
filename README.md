@@ -14,4 +14,6 @@ You'll need R and RStudio along with the following R packages installed:
 * xfun
 * xaringan
 
+Video of the workshop is here: https://youtu.be/0XowehpLkAI
+
 Have fun!
