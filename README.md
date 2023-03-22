@@ -11,5 +11,7 @@ You'll need R and RStudio along with the following R packages installed:
 * table1
 * finalfit
 * knitr
+* xfun
+* xaringan
 
 Have fun!
